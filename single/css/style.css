@@ -1,0 +1,163 @@
+body{
+    background-color: black;
+}
+
+.flower img{
+    display: block;
+    height:500px;
+    width: 350px;
+    margin: auto;
+    margin-top: 50px;
+    overflow: hidden;
+} 
+ .button {
+     height: 60px;
+     width: 200px;
+     margin: auto;
+     margin-top: 30px;
+     
+
+}
+  
+  .btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7,.btn8
+  .btn9,.btn10,.btn11,.btn12,.btn13,.btn14,.btn15,.btn16,
+  .btn17,.btn18,.btn19,.btn20,.btn21,.btn22,.btn23,.btn24,
+  .btn25,.btn26,.btn27,.btn28,.btn29,.btn30,.btn31,.btn32,
+  .btn33,.btn34,.btn35,.btn36,.btn37,.btn38,.btn39,.btn40,
+  .btn41,.btn42
+  {
+    /* position: absolute; */
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 24px;
+  }
+  .btn1:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn2:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn3:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn4:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn5:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn6:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn7:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn8:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn9:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn10:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn11:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn12:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn13:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn14:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn15:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn16:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn17:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn18:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn19:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn20:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn21:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn22:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn23:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn24:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn25:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn26:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn27:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn28:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn29:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn30:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn31:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn32:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn33:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn34:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn35:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn36:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn37:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn38:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn39:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn40:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn41:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  .btn42:hover{
+      background-color:rgb(30, 62, 206);
+  }
+  
