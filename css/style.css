@@ -27,9 +27,25 @@
   /* container img height=300px,width=150px */
   .container img{
     height: 331px;
-    width: 180px;
+    width: 178px;
     margin:10px;
   }
+  .next button {
+    display: block;
+    margin: auto;
+    padding: 12px 48px;
+    font-size: 24px;
+    border: none;
+    background-color: dodgerblue;
+    cursor: pointer;
+    transition: 0.5s ease;
+    height: 50px;
+    width: 150px;
+  }
+  .Next:hover{
+    background-color:rgb(30, 62, 206);
+   color:#fff;
+}
 
 
 
